@@ -5,7 +5,7 @@
 - 💻 I am looking for a job as a *Web Developer*<br/>
 - 📌 I am currently learning *Angular, Symfony & ReactJS*<br/> 
 - ⚽ My hobbies are *reading* and *football*<br/>
-- [Click here to see my CV](https://ngtheluan.github.io/CV-Portfolio/)
+- [Click here to see my CV](https://ngtheluan.github.io/CurriculumVitae/)
 <p>
  <img align="right" src="https://raw.githubusercontent.com/NgTheLuan/NgTheLuan/main/Assets/code.gif" width="300px alt="programmergif">
 </p>
