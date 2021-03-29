@@ -45,27 +45,22 @@
 </a>
 
 <a href="#Bootstrap">
-  <img align="left" alt="GitHub" width="26px"
+  <img align="left" alt="Bootstrap" width="26px"
    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
 </a>
  
 <a href="#Angular">
-  <img align="left" alt="React.js" width="26px"
+  <img align="left" alt="Angular" width="26px"
    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 </a>
 
-<a href="#Symfony">
- <img align="left" alt="MySQL" width="26px"
- src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-</a>
-
 <a href="#ReactJS">
-  <img align="left" alt="PHP" width="26px"
+  <img align="left" alt="ReactJS" width="26px"
    src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/react/react.png" />
  </a>
 
 <a href="#VSC">
-  <img align="left" alt="Visual Studio Code" width="26px"
+  <img align="left" alt="Visual-Studio-Code" width="26px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
 
@@ -75,12 +70,12 @@
 </a>
 
 <a href="#FireBase">
-  <img align="left" alt="GitHub" width="26px"
+  <img align="left" alt="FireBase" width="26px"
    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
 </a>
 
 <a href="#SqlServer">
-  <img align="left" alt="GitHub" width="26px"
+  <img align="left" alt="SqlServer" width="26px"
    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />
 </a>
 
