@@ -1,21 +1,22 @@
 <h2 align=center>  Hello, Welcome to my Github Profile! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h2>
 
 ## About me <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="32px"/>
-- 😆 My name is *Luân*<br/>
-- 💻 I am looking for a job as a *Web Developer*<br/>
-- 📌 I am currently learning *Angular, Symfony & ReactJS*<br/> 
-- ⚽ My hobbies are *reading* and *football*<br/>
-- [Click here to see my CV](https://ngtheluan.github.io/CV-Portfolio/)
+
+- 😆 My name is _Luân_<br/>
+- 💻 I am looking for a job as a _Web Developer_<br/>
+- 📌 I am currently learning _Angular, ReactJS_<br/>
+- ⚽ My hobbies are _reading_ and _football_<br/>
+- [Click here to see my CV](https://ngtheluan.github.io/CurriculumVitae/)
 <p>
  <img align="right" src="https://raw.githubusercontent.com/NgTheLuan/NgTheLuan/main/Assets/code.gif" width="300px alt="programmergif">
 </p>
 
-## My highlight Project <img src="https://emojis.slackmojis.com/emojis/images/1540491167/4864/github-check-mark.png?1540491167" width="32px"/>
+## My highlight Project <img src="https://emojis.slackmojis.com/emojis/images/1540491167/4864/github-check-mark.png?1540491167" width="28px"/>
+
 - Web Webstore **[here](http://webstoreproject.gear.host/)**.
 - Web FurnitureManagement **[here](https://furniture-management-63800.web.app/)**.
-- Web SmartCarParkingSystem **[here](#)**.
-<br/>
-
+- Web SmartCarParkingSystem **[here](https://test-bdf44.web.app/)**.
+  <br/>
 
 <!-- ## Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
 <a href="https://www.facebook.com/ngtheluan.99">
@@ -26,6 +27,7 @@
 </a><br/> -->
 
 ## Languages and Tools 🛠
+
 <a href="#HTML">
   <img align="left" alt="HTML5" width="26px"
    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -56,7 +58,6 @@
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
 </a>
 
-
 <a href="#ReactJS">
   <img align="left" alt="PHP" width="26px"
    src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/react/react.png" />
@@ -85,6 +86,7 @@
 <br/><br/>
 
 ## Working with GIT 💡
+
    <div align=center>
     <a href="https://github.com/NgTheLuan/NgTheLuan">
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=NgTheLuan&show_icons=true&theme=gotham">
