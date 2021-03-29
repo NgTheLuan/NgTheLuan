@@ -1,37 +1,23 @@
 <h2 align=center>  Hello, Welcome to my Github Profile! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h2>
 
 ## About me <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="32px"/>
-<<<<<<< HEAD
 
 - 😆 My name is _Luân_<br/>
 - 💻 I am looking for a job as a _Web Developer_<br/>
-- 📌 I am currently learning _Angular, ReactJS_<br/>
+- 📌 I am currently learning _Angular, Symfony & ReactJS_<br/>
 - ⚽ My hobbies are _reading_ and _football_<br/>
-=======
-- 😆 My name is *Luân*<br/>
-- 💻 I am looking for a job as a *Web Developer*<br/>
-- 📌 I am currently learning *Angular, Symfony & ReactJS*<br/> 
-- ⚽ My hobbies are *reading* and *football*<br/>
->>>>>>> bbbdfef0ab8552653efd6f71742beae538159af0
+
 - [Click here to see my CV](https://ngtheluan.github.io/CurriculumVitae/)
 <p>
  <img align="right" src="https://raw.githubusercontent.com/NgTheLuan/NgTheLuan/main/Assets/code.gif" width="300px alt="programmergif">
 </p>
 
 ## My highlight Project <img src="https://emojis.slackmojis.com/emojis/images/1540491167/4864/github-check-mark.png?1540491167" width="28px"/>
-<<<<<<< HEAD
 
 - Web Webstore **[here](http://webstoreproject.gear.host/)**.
 - Web FurnitureManagement **[here](https://furniture-management-63800.web.app/)**.
 - Web SmartCarParkingSystem **[here](https://test-bdf44.web.app/)**.
   <br/>
-=======
-- Web Webstore **[here](http://webstoreproject.gear.host/)**.
-- Web FurnitureManagement **[here](https://furniture-management-63800.web.app/)**.
-- Web SmartCarParkingSystem **[here](https://test-bdf44.web.app/)**.
-<br/>
-
->>>>>>> bbbdfef0ab8552653efd6f71742beae538159af0
 
 <!-- ## Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
 <a href="https://www.facebook.com/ngtheluan.99">
