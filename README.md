@@ -4,7 +4,7 @@
 
 - 😆 My name is _Luân_<br/>
 - 💻 I am looking for a job as a _Web Developer_<br/>
-- 📌 I am currently learning _Angular, Symfony & ReactJS_<br/>
+- 📌 I am currently learning _Angular & ReactJS_<br/>
 - ⚽ My hobbies are _reading_ and _football_<br/>
 
 - [Click here to see my CV](https://ngtheluan.github.io/CurriculumVitae/)
@@ -14,12 +14,15 @@
 
 ## My highlight Project <img src="https://emojis.slackmojis.com/emojis/images/1540491167/4864/github-check-mark.png?1540491167" width="28px"/>
 
+- Web JobListing **[here](https://joblisting-web.netlify.app/)**
 - Web Webstore **[here](http://webstoreproject.gear.host/)**.
 - Web FurnitureManagement **[here](https://furniture-management-63800.web.app/)**.
 - Web SmartCarParkingSystem **[here](https://test-bdf44.web.app/)**.
+<hr/>
+- App TravelPoint **[here](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40thanhloc1308/Travel-114ef818224e49979fbcafb5d81641c4-signed.apk)**
   <br/>
 
-<!-- ## Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
+<!-- ## Contact with me <img src="" height="32px">
 <a href="https://www.facebook.com/ngtheluan.99">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
