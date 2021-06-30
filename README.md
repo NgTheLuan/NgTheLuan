@@ -18,7 +18,6 @@
 - Web Webstore **[here](http://webstoreproject.gear.host/)**.
 - Web FurnitureManagement **[here](https://furniture-management-63800.web.app/)**.
 - Web SmartCarParkingSystem **[here](https://test-bdf44.web.app/)**.
-<hr/>
 - App TravelPoint **[here](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40thanhloc1308/Travel-114ef818224e49979fbcafb5d81641c4-signed.apk)**
   <br/>
 
