@@ -4,7 +4,7 @@
 
 - 😆 My name is _Luân_<br/>
 - 💻 I am looking for a job as a _Web Developer_<br/>
-- 📌 I am currently learning _AngularJS & ReactJS_<br/>
+- 📌 I am currently learning _ReactJS_<br/>
 - ⚽ My hobbies are _reading_ and _football_<br/>
 
 - [Click here to see my CV](https://ngtheluan.github.io/CurriculumVitae/)
@@ -46,9 +46,14 @@
    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 
-<a href="#Angular">
-  <img align="left" alt="Angular" width="26px"
-   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<a href="#TS">
+  <img align="left" alt="TypeScript" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+</a>
+
+<a href="#RD">
+  <img align="left" alt="Redux" width="26px"
+   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/redux/redux.png" />
 </a>
 
 <a href="#ReactJS">
