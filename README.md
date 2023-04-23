@@ -9,7 +9,7 @@
 
 - [Click here to see my CV](https://ngtheluan.github.io/CurriculumVitae/)
 <p>
- <img align="right" src="https://raw.githubusercontent.com/NgTheLuan/NgTheLuan/main/Assets/code.gif" width="300px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/NgTheLuan/NgTheLuan/main/Assets/code.gif" width="250px alt="programmergif">
 </p>
 
 ## My highlight Project <img src="https://emojis.slackmojis.com/emojis/images/1540491167/4864/github-check-mark.png?1540491167" width="28px"/>
